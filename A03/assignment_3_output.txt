@@ -1,0 +1,50 @@
+=== Base n = 7, iterations i = 6 ===
+
+
+Step 4: 5764801 * 5764801
+  Correct answer : 33232930569601
+  GPT's answer   : 33177600000001
+  RESULT: WRONG (error #1) -> Hmm, that wasn't right. I swear I had it a second ago.
+
+Step 5: 33232930569601 * 33232930569601
+  Correct answer : 1104427674243920646305299201
+  GPT's answer   : 1102020726000000000000001
+  RESULT: WRONG (error #2) -> Oops, I messed up. Math is hard, okay?
+
+Step 6: 1104427674243920646305299201 * 1104427674243920646305299201
+  Correct answer : 1219760487635835700138573862562971820755615294131238401
+  GPT's answer   : 1210000000000000000000000000000000000000000000000000000000000001
+  RESULT: WRONG (error #3) -> Seriously?! AGAIN?! I'm supposed to be an advanced AI!
+
+Finished with 3 error(s) out of 6 step(s).
+
+------------------------------------------------------------
+
+=== Base n = 7, iterations i = 4 ===
+
+
+Step 4: 5764801 * 5764801
+  Correct answer : 33232930569601
+  GPT's answer   : 33177600000001
+  RESULT: WRONG (error #1) -> Hmm, that wasn't right. I swear I had it a second ago.
+
+Finished with 1 error(s) out of 4 step(s).
+
+------------------------------------------------------------
+
+=== Base n = 7, iterations i = 5 ===
+
+
+Step 4: 5764801 * 5764801
+  Correct answer : 33232930569601
+  GPT's answer   : 33177600000001
+  RESULT: WRONG (error #1) -> Oops, I messed up. Math is hard, okay?
+
+Step 5: 33232930569601 * 33232930569601
+  Correct answer : 1104427674243920646305299201
+  GPT's answer   : 1102020726000000000000001
+  RESULT: WRONG (error #2) -> Wow, I messed up again. Math is hard, okay?
+
+Finished with 2 error(s) out of 5 step(s).
+
+------------------------------------------------------------
